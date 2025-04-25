@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DataScience projects.<br>👯 I’m looking to collaborate on frontend and full-stack web apps.<br>🤝 I’m looking for help with scalable backend systems and ML deployment.<br>🌱 I’m currently learning Machine Learning Algorithms.<br>💬 Ask me about ReactJS, Firebase auth, NodeJS, or chatbot building.<br>⚡ Fun fact: I built a chatbot that knows everything about me 😄
+🔭 I’m currently working on DataScience projects.<br>👯 I’m looking to collaborate on frontend and full-stack web apps.<br>🤝 I’m looking for help with scalable backend systems and ML deployment.<br>🌱 I’m currently learning Machine Learning Algorithms.<br>💬 Ask me about ReactJS, Firebase auth, NodeJS , Python<br>⚡ Fun fact: I built a chatbot that knows everything about me 😄
 
 
 ## 🌐 Socials:
